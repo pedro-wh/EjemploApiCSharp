@@ -1,3 +1,5 @@
 # EjemploApiCSharp
 
-Hi
+```
+dotnet run
+```
